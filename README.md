@@ -56,4 +56,4 @@ Participação em atividades de programação e desenvolvimento Web, utilizando 
 - GitHub: https://github.com/gabrieljosue723-maker
 - https://www.linkedin.com/in/josue-gabriel1/
 - gabrieljosue723@gmail.com
-
+- https://josueportfolio-five.vercel.app/
